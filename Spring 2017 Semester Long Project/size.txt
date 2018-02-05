@@ -1,0 +1,1 @@
+Open GUI.java and read lines 56-57 which set the size to 2048X2048 for the fractal panel. 

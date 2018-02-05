@@ -1,0 +1,4 @@
+To change the number of threads, run the project and click file and then click set number of threads. 
+After the user has entered the number, you may look in the Model class which contains a method to update the number of threads,
+the method is between lines 73-81.
+The number is stored as an instance variable and used for all further calculations, until a new number is entered.

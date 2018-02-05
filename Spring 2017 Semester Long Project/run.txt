@@ -1,0 +1,1 @@
+Open the edu.buffalo.cse116 package and run the Main.java class as a Java Application. 

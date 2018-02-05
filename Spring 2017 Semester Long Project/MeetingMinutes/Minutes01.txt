@@ -1,0 +1,21 @@
+Meeting Minutes for _2/13/2017_:
+
+Meeting Attendance:
+  * Sayef Iqbal
+  * Afnan Foyez
+  * Sean Zhang
+  * Eliot Fields
+
+Tasks completed since last meeting:
+  * (first meeting)
+
+Tasks started, but not completed, since last meeting:
+  * (first meeting)
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  * Clarify requirements
+  * Set time for next meeting
+
+Schedule for the next week's set of pair programming meetings:
+  * TBD
+  *

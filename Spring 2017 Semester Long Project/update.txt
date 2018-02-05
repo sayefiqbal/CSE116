@@ -1,0 +1,25 @@
+MULTIBROT TAKES A FEW SECONDS TO LOAD
+
+*****
+UPDATE ESCAPE DISTANCE
+
+To update the escape distances, select the update escape distance menu item. 
+
+A window should pop up asking the user to input a new escape distance and press OK.
+ 
+If the user inputs a negative number and selects OK, then the GUI shows another window with an error message asking the 
+user to put in new inputs. 
+
+The user must select to enter another escape distance and the process repeats. 
+
+*****
+UPDATE ESCAPE TIME
+
+To update the maximum escape time, select the update maximum escape time menu item. 
+
+A window should pop up asking the user to input a new escape time and press OK.
+ 
+If the user inputs a negative number and selects OK, then the GUI shows another window with an error message asking the 
+user to put in new inputs. 
+
+The user must select to enter another escape time and the process repeats. 

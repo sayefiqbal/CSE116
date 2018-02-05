@@ -1,0 +1,6 @@
+*****
+How to reset: 
+
+Click file, and then click reset zoom. 
+
+** Also, the zooming visual feedback lags a little, but it still shows the full range. 
