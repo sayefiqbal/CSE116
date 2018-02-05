@@ -20,7 +20,7 @@ public class MultibrotTest {
 	 */
 	@Test
 	public void CoordinateTranslatorTest() {
-		Multibrot multi = new Multibrot();
+//		Multibrot multi = new Multibrot();
 		assertEquals(-1.0, multi.pixelToXCoordinate(0), 0.001);
 		assertEquals(-0.87591597, multi.pixelToXCoordinate(127), 0.001);
 		assertEquals(1.0, multi.pixelToXCoordinate(2047), 0.001);
